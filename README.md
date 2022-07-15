@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ethan.
+- 👀 I’m interested in learning Python.
+- 🌱 I’m currently learning Python.
+- 
